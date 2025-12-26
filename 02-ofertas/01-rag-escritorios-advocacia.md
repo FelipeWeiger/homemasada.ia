@@ -278,7 +278,7 @@ Sem estudar mais. Sem melhorar o sistema. Sem "organizar".
 
 ## 10. Arquivos Relevantes do Repositório
 
-- [solucoes/01-knowledge-base-rag.md](../solucoes/01-knowledge-base-rag.md) - Detalhes técnicos da solução
+- [04-solucoes/01-knowledge-base-rag.md](../04-solucoes/01-knowledge-base-rag.md) - Detalhes técnicos da solução
 - [CLAUDE.md](../CLAUDE.md) - Filosofia de vendas e scripts base
 
 ---

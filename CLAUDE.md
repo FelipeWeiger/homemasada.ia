@@ -198,11 +198,85 @@ Não é "O que mais preciso saber?"
 
 ```
 masada-ia/
-├── CLAUDE.md        # Este arquivo
-├── setores/         # Pesquisa de verticais
-├── solucoes/        # Detalhes de soluções
-└── clientes/        # Pipeline e prospecção
+├── CLAUDE.md           # Este arquivo
+├── 01-setores/         # Pesquisa de verticais
+├── 02-ofertas/         # Ofertas por vertical
+├── 03-clientes/        # Pipeline e prospecção
+├── 04-solucoes/        # Detalhes técnicos (referência)
+└── zz-linkedin/        # Conteúdo (só depois de prospectar)
 ```
+
+---
+
+## Como Usar Este Repo
+
+### Fluxo Diário (Prospecção)
+
+```
+1. CLAUDE.md             → Relembra mentalidade e regras
+2. 01-setores/           → Escolhe dor + setor
+3. 02-ofertas/           → Cria ou consulta oferta do setor
+4. 03-clientes/          → Pega scripts e manda mensagem
+5. zz-linkedin/          → SÓ SE mandou 10 msgs hoje
+```
+
+### Quando Usar Cada Pasta
+
+| Situação | Onde ir | Arquivo |
+|----------|---------|---------|
+| "Quero prospectar hoje" | `03-clientes/` | guia-prospeccao.md |
+| "Qual setor atacar?" | `01-setores/` | guia-setores.md |
+| "Como estruturar minha oferta?" | `02-ofertas/` | 00-guia-criacao-ofertas.md |
+| "Preciso de detalhes técnicos" | `04-solucoes/` | catalogo-solucoes.md |
+| "Quero criar conteúdo" | `zz-linkedin/` | guia-conteudo-linkedin.md |
+| "To perdido, preciso de rumo" | raiz | CLAUDE.md |
+
+### Atalho: Começar do Zero
+
+Se tiver perdido, faça nessa ordem:
+
+1. **Hoje:** Lê `01-setores/guia-setores.md` → escolhe 1 dor + 1 setor
+2. **Hoje:** Lê `02-ofertas/00-guia-criacao-ofertas.md` → cria oferta básica
+3. **Hoje:** Lê `03-clientes/guia-prospeccao.md` → manda 5 mensagens
+4. **Amanhã:** Manda mais 10 mensagens
+5. **Semana 1:** 50 prospecções antes de mudar qualquer coisa
+
+---
+
+## Abordagem Cliente-First
+
+> "Você não vende IA. Você vende resultado. IA é só o como."
+
+### A Ordem Certa
+
+1. **DOR** - Qual problema o cliente tem? Quanto custa pra ele?
+2. **RESULTADO** - O que ele quer? (na linguagem dele, não técnica)
+3. **OFERTA** - Como você empacota a solução de forma irresistível?
+4. **SOLUÇÃO** - Qual tecnologia resolve? (só você precisa saber isso)
+
+### Palavras Proibidas em Prospecção
+
+NUNCA use na primeira mensagem:
+- IA, Inteligência Artificial
+- Automação
+- RAG, LLM, GPT
+- Agente, Bot
+- Modelo, Algoritmo
+
+### Palavras que Funcionam
+
+USE sempre:
+- Problema, dor, frustração
+- Tempo, custo, dinheiro
+- Resultado, meta, objetivo
+- Cliente, lead, venda
+
+### Teste da Mensagem
+
+Antes de mandar, pergunte:
+> "Essa mensagem faria sentido pra alguém que não sabe o que é IA?"
+
+Se não, reescreve.
 
 ---
 

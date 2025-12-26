@@ -4,6 +4,39 @@ Pesquisa de verticais e oportunidades de implementação de IA.
 
 ---
 
+## Ponto de Partida: Dores, Não Soluções
+
+Antes de escolher um setor, identifique as DORES que você resolve:
+
+### Dores Universais (aplicam em vários setores)
+
+| Dor | Como o cliente descreve | Setores críticos |
+|-----|------------------------|------------------|
+| **Atendimento lento** | "Perco cliente porque demoro pra responder" | Imóveis, clínicas, e-commerce |
+| **Equipe sobrecarregada** | "Meu time gasta tempo em coisa repetitiva" | Agências, consultorias, contabilidade |
+| **Informação espalhada** | "Ninguém sabe onde tá nada aqui" | Advocacia, saúde, indústria |
+| **Prospecção manual** | "Vendedor passa mais tempo pesquisando que vendendo" | B2B, SaaS, serviços |
+
+### Como Escolher Setor
+
+1. Escolha UMA dor que você resolve bem
+2. Liste setores onde essa dor é CRÍTICA (custa caro)
+3. Escolha o setor onde você tem mais acesso/contexto
+4. Aprenda a LINGUAGEM desse setor
+5. 50 prospecções antes de considerar trocar
+
+### Framework por Vertical
+
+Para cada setor que for explorar, mapeie:
+
+1. **Dores específicas** - O que dói NESSE setor que não dói em outros?
+2. **Linguagem** - Como eles chamam as coisas? Que termos usam?
+3. **Decisores** - Quem decide? Quem paga? Quem influencia?
+4. **Objeções** - O que esse setor específico vai questionar?
+5. **Prova** - Que resultado faz os olhos brilharem?
+
+---
+
 ## Como usar
 
 Crie um arquivo `[setor].md` para cada vertical que explorar.

@@ -4,6 +4,33 @@
 
 ---
 
+## Ponto de Partida: Dor do Setor
+
+> "Oferta boa comeca na dor do cliente, nao na sua solucao."
+
+**ANTES de preencher qualquer coisa neste guia:**
+
+1. Escolheu um SETOR especifico? (ver `01-setores/guia-setores.md`)
+2. Mapeou as DORES criticas desse setor?
+3. Sabe como o cliente DESCREVE essas dores? (na linguagem dele)
+
+Se nao, volta pro guia de setores. Oferta sem dor validada e chute.
+
+### Fluxo Correto
+
+```
+SETOR → DORES DO SETOR → OFERTA → SOLUCAO TECNICA
+         ↑                         ↓
+    O que doi?              Como resolver?
+```
+
+A solucao (RAG, WhatsApp, automacao) so entra DEPOIS de voce saber:
+- Qual dor especifica do setor voce vai atacar
+- Quanto essa dor custa pro cliente (R$/mes)
+- Como o cliente descreve essa dor (palavras dele)
+
+---
+
 ## 1. A Equacao de Valor
 
 ```
